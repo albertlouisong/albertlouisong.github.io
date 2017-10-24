@@ -183,6 +183,10 @@ a {
     outline: none;
     background-color: #42DCA3; }
 
+.imgpre {
+    max-width: 30%;
+}
+
 ul.banner-social-buttons {
   margin-top: 0; }
   @media (max-width: 1199px) {

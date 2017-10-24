@@ -171,7 +171,7 @@ a {
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   text-transform: uppercase;
-  border-radius: 0; }
+  border-radius: 0;}
 
 .btn-default {
   color: #42DCA3;

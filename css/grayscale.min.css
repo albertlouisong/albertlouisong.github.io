@@ -7,4 +7,12 @@
 }.imgpre2{max-width: 35%;margin: 30px;}.imgpre3{max-width: 55%}.project{text-align: justify;
     text-justify: inter-word;}hr {
     border-color: darkgray;
-}
+}#codetable td {
+    border: 1px solid white;
+}#codetable {
+    table-layout: fixed;
+    width: 70%;
+    margin-right: 0px;
+    margin-left: auto;
+    margin-bottom: 10px;
+}#software{text-align: right}.label{font-weight: bold; text-align: left}.date{font-weight: bold; text-align: right}.labeltable{width: 100%;}.sublabel{font-style: italic; text-align: left}.points{text-align: justify}#coreskills td{text-align: justify;}#coreskills th, #coreskills td{vertical-align: top}

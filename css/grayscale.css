@@ -190,6 +190,10 @@ a {
     max-width: 30%;
 }
 
+#codetablecell {
+    text-align: right;
+}
+
 ul.banner-social-buttons {
   margin-top: 0; }
   @media (max-width: 1199px) {
